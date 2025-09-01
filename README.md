@@ -32,5 +32,4 @@ forest-landing-page/
 ├── script.js # JavaScript for navbar scroll effect and mobile menu
 └── README.md # Project documentation
 
-yaml
-Copy code
+
